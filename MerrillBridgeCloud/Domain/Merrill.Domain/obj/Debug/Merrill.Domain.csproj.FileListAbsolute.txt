@@ -1,0 +1,5 @@
+D:\CommandAndDispatcher\MerrillBridge\MerrillBridgeCloud\Domain\Merrill.Domain\bin\Debug\Merrill.Domain.dll
+D:\CommandAndDispatcher\MerrillBridge\MerrillBridgeCloud\Domain\Merrill.Domain\bin\Debug\Merrill.Domain.pdb
+D:\CommandAndDispatcher\MerrillBridge\MerrillBridgeCloud\Domain\Merrill.Domain\obj\Debug\Merrill.Domain.dll
+D:\CommandAndDispatcher\MerrillBridge\MerrillBridgeCloud\Domain\Merrill.Domain\obj\Debug\Merrill.Domain.pdb
+D:\CommandAndDispatcher\MerrillBridge\MerrillBridgeCloud\Domain\Merrill.Domain\obj\Debug\Merrill.Domain.csprojResolveAssemblyReference.cache

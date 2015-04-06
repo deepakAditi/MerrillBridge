@@ -1,0 +1,4 @@
+D:\CommandAndDispatcher\MerrillBridge\MerrillBridgeCloud\Events\Merrill.Events\bin\Debug\Merrill.Events.dll
+D:\CommandAndDispatcher\MerrillBridge\MerrillBridgeCloud\Events\Merrill.Events\bin\Debug\Merrill.Events.pdb
+D:\CommandAndDispatcher\MerrillBridge\MerrillBridgeCloud\Events\Merrill.Events\obj\Debug\Merrill.Events.dll
+D:\CommandAndDispatcher\MerrillBridge\MerrillBridgeCloud\Events\Merrill.Events\obj\Debug\Merrill.Events.pdb

@@ -1,0 +1,4 @@
+D:\CommandAndDispatcher\MerrillBridge\MerrillBridgeCloud\Respository\Merrill.Repository\bin\Debug\Merrill.Repository.dll
+D:\CommandAndDispatcher\MerrillBridge\MerrillBridgeCloud\Respository\Merrill.Repository\bin\Debug\Merrill.Repository.pdb
+D:\CommandAndDispatcher\MerrillBridge\MerrillBridgeCloud\Respository\Merrill.Repository\obj\Debug\Merrill.Repository.dll
+D:\CommandAndDispatcher\MerrillBridge\MerrillBridgeCloud\Respository\Merrill.Repository\obj\Debug\Merrill.Repository.pdb

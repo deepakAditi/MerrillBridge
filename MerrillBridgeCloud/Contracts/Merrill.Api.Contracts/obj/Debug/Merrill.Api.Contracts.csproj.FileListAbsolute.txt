@@ -1,0 +1,5 @@
+D:\CommandAndDispatcher\MerrillBridge\MerrillBridgeCloud\Contracts\Merrill.Api.Contracts\bin\Debug\Merrill.Api.Contracts.dll
+D:\CommandAndDispatcher\MerrillBridge\MerrillBridgeCloud\Contracts\Merrill.Api.Contracts\bin\Debug\Merrill.Api.Contracts.pdb
+D:\CommandAndDispatcher\MerrillBridge\MerrillBridgeCloud\Contracts\Merrill.Api.Contracts\obj\Debug\Merrill.Api.Contracts.dll
+D:\CommandAndDispatcher\MerrillBridge\MerrillBridgeCloud\Contracts\Merrill.Api.Contracts\obj\Debug\Merrill.Api.Contracts.pdb
+D:\CommandAndDispatcher\MerrillBridge\MerrillBridgeCloud\Contracts\Merrill.Api.Contracts\obj\Debug\Merrill.Api.Contracts.csprojResolveAssemblyReference.cache
